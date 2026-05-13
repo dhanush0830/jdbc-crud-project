@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 public class EmployeeDAO {
 
-    String url = "jdbc:mysql://localhost:3306/kuppam";
+    String url = "jdbc:mysql://localhost:3306/company";
     String user = "root";
     String password = "";
 
